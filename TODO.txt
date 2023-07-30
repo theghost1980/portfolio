@@ -1,0 +1,10 @@
+Add attrib:
+
+- Image by <a href="https://www.freepik.com/free-vector/404-error-design-with-ufo_1534923.htm#query=404%20space&position=3&from_view=keyword&track=ais">Freepik</a>
+- Image conversions by https://www.freeconvert.com/es/jpg-to-svg/download
+- 3D conversions by https://products.aspose.app/3d/conversion/jpg-to-3ds
+
+By Sections:
+- 404 not found:
+    - using the same image, create from scratch a 3D animated model
+    - so the idea is showing that and the user can move that stuff.
